@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+p {
+	font-size: 10px;
+	margin-bottom: 20px;
+	font-family: sans-serif;
+}
+hr {
+	margin-top: 20px;
+	background-color: black;
+	height: 3px;
+}

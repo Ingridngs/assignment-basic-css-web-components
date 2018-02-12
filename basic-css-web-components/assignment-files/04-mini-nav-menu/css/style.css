@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: Futura;
+}
+p{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 20px 0 20px 0;
+	text-align: center;
+}
+.grey {
+	color: black;
+}
+.light {
+	color: grey;
+}
+a {
+	background-color: rgb(205,92,92);
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+nav {
+	display: inline-block; 
+}

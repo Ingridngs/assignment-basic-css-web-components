@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FBF9F1;
+}
+h1	{
+	font-family:  Georgia;
+	font-size: 20px;
+}
+.subrayado {
+	 text-decoration: underline;
+}
+.sombra {
+	background-color: black;
+	color: white;
+	font-family: Palatino;
+}
+.grande {
+    font-size: 40px; 
+}
+a {
+	color: #77A8D2;
+	text-decoration: none;
+}
+div {
+	font-family: Ubuntu;
+	width: 390px;
+	margin-left: 150px;
+}
+p {
+	line-height: 1.25;
+}
